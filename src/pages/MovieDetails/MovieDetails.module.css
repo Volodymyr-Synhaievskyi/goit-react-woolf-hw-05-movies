@@ -1,0 +1,54 @@
+.movieDetailSection {
+  display: flex;
+  padding: 10px;
+  border-bottom: 1px solid rgb(170, 166, 166);
+  box-shadow: 1px 1px 4px 1px rgb(170, 166, 166, 0.6);
+  border-radius: 2px;
+  background-color: rgb(218, 216, 216, 0.2);
+  margin-top: 16px;
+}
+.detailsContainer {
+  margin-left: 50px;
+}
+
+.titleSmall {
+  font-weight: 500;
+}
+.movieDetailsImage {
+  display: block;
+  padding: 10px;
+  border-radius: 4px;
+  width: 200px;
+}
+
+.genre {
+  margin-right: 20px;
+}
+
+.itemList {
+  margin-bottom: 10px;
+}
+.itemList:hover {
+  font-weight: 500;
+}
+
+.infoSection {
+  padding: 20px;
+  border-bottom: 1px solid rgb(170, 166, 166);
+  box-shadow: 1px 1px 4px 1px rgb(170, 166, 166, 0.6);
+  border-radius: 2px;
+  background-color: rgb(218, 216, 216, 0.2);
+}
+
+.navLink {
+  height: 30px;
+  padding: 8px 16px;
+  border-radius: 4px;
+  text-decoration: none;
+  box-shadow: 1px 1px 4px 1px rgb(170, 166, 166, 0.6);
+  font-weight: 400;
+}
+
+.navLink:hover {
+  font-weight: 500;
+}
